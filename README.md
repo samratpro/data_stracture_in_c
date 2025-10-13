@@ -1,4 +1,3 @@
-# data_stracture_in_c
 ## Setup GCC Compiler 
 ```
 https://sourceforge.net/projects/mingw/
@@ -17,8 +16,7 @@ https://prnt.sc/WJBgksmXLRbo
 ```
 ## Run C/Cpp code
 ```
-gcc test.c -o test
-./test
-./test.exe
+gcc test.c -o test /or/ gcc test.cpp -o test
+./test  /or/ ./test.exe
 ```
 
