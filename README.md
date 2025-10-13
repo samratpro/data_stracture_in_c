@@ -23,4 +23,8 @@ gcc test.cpp -o test
 /or/
 ./test.exe
 ```
+## Code Runner in VS Code
+```
+https://prnt.sc/8R7VDgfxkn0Y
+```
 
