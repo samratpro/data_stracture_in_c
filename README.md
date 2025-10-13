@@ -16,7 +16,11 @@ https://prnt.sc/WJBgksmXLRbo
 ```
 ## Run C/Cpp code
 ```
-gcc test.c -o test /or/ gcc test.cpp -o test
-./test  /or/ ./test.exe
+gcc test.c -o test
+/or/
+gcc test.cpp -o test
+./test
+/or/
+./test.exe
 ```
 
