@@ -43,7 +43,7 @@ int main() {
         {0, 0, 0, 0, 0, 0, 0, 0, 0}, // Node 8 (7) -> No children
         {0, 0, 0, 0, 0, 0, 0, 0, 0}  // Node 12 (8) -> No children
     };
-
+    // https://github.com/samratpro/data_stracture_in_c/blob/master/sem_04_algorithm/matrix%20visual.png
     // Perform BFS starting from the root node (Node 4, index 0)
     cout << "BFS Traversal starting from node 4: ";
     bfs(graph, 0, MAX_NODES);
